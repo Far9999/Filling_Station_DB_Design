@@ -1,0 +1,1 @@
+A sample database design for a large filling station. Implemented and automated many human processes such as storing of details of customers into a secure database, retrieving top customers from the database, automating the calculation of costs, retrieving customer order history, etc.
